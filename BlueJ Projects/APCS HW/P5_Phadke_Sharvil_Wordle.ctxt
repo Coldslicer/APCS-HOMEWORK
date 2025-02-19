@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=P5_Phadke_Sharvil_Wordle
+comment1.params=
+comment1.target=java.util.List\ getAllWords()
+comment2.params=input
+comment2.target=boolean\ isValidGuess(java.lang.String)
+comment3.params=input
+comment3.target=boolean\ isValidResult(java.lang.String)
+comment4.params=
+comment4.target=java.util.List\ getRemainingWords()
+comment5.params=
+comment5.target=P5_Phadke_Sharvil_Wordle()
+comment6.params=
+comment6.target=boolean\ solved()
+comment7.params=guess\ colorResult
+comment7.target=java.lang.String\ getNextGuess(java.lang.String,\ java.lang.String)
+comment8.params=s\ query
+comment8.target=boolean\ contains(java.lang.String,\ char)
+comment9.params=s\ query
+comment9.target=int\ count(java.lang.String,\ char)
+numComments=10

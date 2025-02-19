@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "P5_Phadke_Sharvil_InsertionSort",
+            "request": "launch",
+            "mainClass": "P5_Phadke_Sharvil_InsertionSort",
+            "projectName": "HW_ccfd2ce9"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "P5_Phadke_Sharvil_BubbleSort",
+            "request": "launch",
+            "mainClass": "P5_Phadke_Sharvil_BubbleSort",
+            "projectName": "HW_ccfd2ce9"
+        },
+        {
+            "type": "java",
+            "name": "P5_Phadke_Sharvil_SelectionSort",
+            "request": "launch",
+            "mainClass": "P5_Phadke_Sharvil_SelectionSort",
+            "projectName": "HW_ccfd2ce9"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommonList
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=nums
+comment2.target=void\ printList(java.util.List)
+comment3.params=n\ a\ b
+comment3.target=java.util.List\ randomList(int,\ int,\ int)
+comment4.params=nums
+comment4.target=void\ removeNegatives(java.util.List)
+comment5.params=list1\ list2
+comment5.target=java.util.List\ commonList(java.util.List,\ java.util.List)
+numComments=6

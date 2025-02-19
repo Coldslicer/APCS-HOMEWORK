@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=P5_Phadke_Sharvil_Compress
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=filename
+comment2.target=void\ compress(java.lang.String)
+comment3.params=filename
+comment3.target=void\ decompress(java.lang.String)
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CheckerBoard
+comment1.params=
+comment1.target=void\ drawCheckerBoardHardcoded()
+comment2.params=totalHeight\ totalWidth\ n\ m
+comment2.target=void\ drawCheckerBoard(int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ drawCheckerBoardRecursive()
+numComments=4

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=P5_Phadke_Sharvil_KochCurve
+comment1.params=
+comment1.target=P5_Phadke_Sharvil_KochCurve()
+comment2.params=pad
+comment2.target=P5_Phadke_Sharvil_KochCurve(gpdraw.SketchPad)
+comment3.params=level\ length
+comment3.target=void\ drawKochCurve(int,\ double)
+comment4.params=level\ length\ x\ y
+comment4.target=void\ drawKochCurve(int,\ double,\ double,\ double)
+comment5.params=level\ length
+comment5.target=void\ drawKochSnowflake(int,\ double)
+comment6.params=level\ length\ x\ y
+comment6.target=void\ drawKochSnowflake(int,\ double,\ double,\ double)
+comment7.params=level\ length
+comment7.target=void\ drawInvertedKochSnowflake(int,\ double)
+comment8.params=level\ length\ x\ y
+comment8.target=void\ drawInvertedKochSnowflake(int,\ double,\ double,\ double)
+comment9.params=args
+comment9.target=void\ test(java.lang.String[])
+numComments=10

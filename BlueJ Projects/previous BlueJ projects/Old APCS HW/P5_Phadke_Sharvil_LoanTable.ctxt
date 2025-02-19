@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=P5_Phadke_Sharvil_LoanTable
+comment0.text=\n\ Sharvil\ Phadke\n\ Sun\ Oct\ 20\ 2024\n\ Working\:\ yes\n\ \n\ HW\ question\:\n\ does\ a\ for\ loop\ need\ to\ have\ int\ i\ \=\ 0?\n\ where\ are\ some\ situations\ where\ you\ may\ need\ a\ different\ first\ statement\n\ which\ statements\ in\ the\ for\ loop\ are\ optional?\ Why?\n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ getInput()
+comment3.params=
+comment3.target=void\ printOutput()
+comment3.text=\n\ \ \ \ (p*k*c)/(c-1)\n\ \ \ \ k\ \=\ rate/12.0\n\ \ \ \ n\ \=\ years*12\n\ \ \ \ c\ \=\ Math.pow(1+k,n);\n
+numComments=4

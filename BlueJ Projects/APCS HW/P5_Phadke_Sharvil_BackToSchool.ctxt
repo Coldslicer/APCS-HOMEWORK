@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=P5_Phadke_Sharvil_BackToSchool
+comment0.text=\n\ Sharvil\ Phadke\ P5\n\ Nov\ 24,\ 2024\n\ Working\:\ yes\n\ HW\ question\:\n\ \ \ Why\ can't\ you\ extend\ multiple\ classes?\ Give\ both\ the\ reason\ why\ you\ can't\n\ \ \ acording\ to\ how\ java\ was\ coded,\ as\ well\ as\ the\ reason\ why\ Sun\ Microsystems\n\ \ \ (creators\ of\ java)\ would\ have\ created\ it\ that\ way.\ Why\ can\ you\n\ \ \ implement\ multiple\ interfaces\ but\ not\ extend\ multiple\ classes?\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

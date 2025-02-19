@@ -1,0 +1,15 @@
+Welcome to CHECKERS
+
+The end goal of checkers is to eliminate all of the opponent's pieces
+Each player starts with 12 pieces on an 8 x 8 grid.
+To move a piece, enter the location of the piece, and then left or right
+The piece will try to move in accordance to these rules:
+
+    1. if the piece diagonally forwards and in the chosen direction is an empty tile that exists move there
+
+    2. if that location is occupied by a piece of the opposing color and the next tile in the same direction is empty, move there
+    
+    3. if checks 1 and 2 failed, that means it is an illegal move, such as trying to move out of bounds or capturing one's own pieces. In this case no move is made and the turn is refunded
+
+If there is no tile in the direction of travel of the piece, the piece turns around.
+The game ends when one player looses because they can no longer make legal moves, usually because they no longer have any pieces

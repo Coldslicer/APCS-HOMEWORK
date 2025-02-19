@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=StringCraft
+comment1.params=
+comment1.target=void\ testing()
+comment10.params=s
+comment10.target=StringCraft.Solution\ findOptimalSolution(char[])
+comment11.params=s\ c
+comment11.target=StringCraft.Solution\ findOptimalSolution(char[],\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=length
+comment3.target=char[]\ generateRandomString(int)
+comment4.params=
+comment4.target=char\ randomLetter()
+comment5.params=s
+comment5.target=boolean\ hasValidMoves(char[])
+comment6.params=s\ i1\ i2
+comment6.target=void\ applySwap(char[],\ int,\ int)
+comment7.params=s\ is
+comment7.target=void\ applySwap(char[],\ int[])
+comment8.params=s
+comment8.target=int\ score(char[])
+comment9.params=s
+comment9.target=getValidMoves(char[])
+numComments=12

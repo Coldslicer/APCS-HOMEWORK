@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=P5_Phadke_Sharvil_IrregularPolygon
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=
+comment3.target=double\ perimeter()
+comment4.params=
+comment4.target=double\ area()
+numComments=5

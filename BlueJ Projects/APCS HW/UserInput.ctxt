@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=UserInput
+comment1.params=input
+comment1.target=java.lang.String\ readLine(java.lang.String)
+comment2.params=prompt
+comment2.target=int\ readInt(java.lang.String)
+comment3.params=prompt
+comment3.target=double\ readDouble(java.lang.String)
+comment4.params=prompt
+comment4.target=boolean\ readBoolean(java.lang.String)
+comment5.params=input
+comment5.target=boolean\ parseBoolean(java.lang.String)
+numComments=6

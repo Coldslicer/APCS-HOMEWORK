@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=
+comment1.target=Person()
+comment2.params=name
+comment2.target=Person(java.lang.String)
+comment3.params=name\ gender
+comment3.target=Person(java.lang.String,\ Person.Gender)
+comment4.params=other
+comment4.target=boolean\ equals(Person)
+numComments=5
